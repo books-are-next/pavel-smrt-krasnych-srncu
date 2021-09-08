@@ -1,11 +1,154 @@
 {
+  "params": {
+    "metadata": {
+      "title": "Smrt krásných srnců",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ota Pavel",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-08T09:42:17.967Z",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "MLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "filename": "smrt_krasnych_srncu_001.md",
+        "xhtml": "smrt_krasnych_srncu_001.xhtml",
+        "id": 0,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_002.md",
+        "xhtml": "smrt_krasnych_srncu_002.xhtml",
+        "id": 1,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_003.md",
+        "xhtml": "smrt_krasnych_srncu_003.xhtml",
+        "id": 2,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_004.md",
+        "xhtml": "smrt_krasnych_srncu_004.xhtml",
+        "id": 3,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_005.md",
+        "xhtml": "smrt_krasnych_srncu_005.xhtml",
+        "id": 4,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_006.md",
+        "xhtml": "smrt_krasnych_srncu_006.xhtml",
+        "id": 5,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_007.md",
+        "xhtml": "smrt_krasnych_srncu_007.xhtml",
+        "id": 6,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_008.md",
+        "xhtml": "smrt_krasnych_srncu_008.xhtml",
+        "id": 7,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_009.md",
+        "xhtml": "smrt_krasnych_srncu_009.xhtml",
+        "id": 8,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_010.md",
+        "xhtml": "smrt_krasnych_srncu_010.xhtml",
+        "id": 9,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_011.md",
+        "xhtml": "smrt_krasnych_srncu_011.xhtml",
+        "id": 10,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_012.md",
+        "xhtml": "smrt_krasnych_srncu_012.xhtml",
+        "id": 11,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_013.md",
+        "xhtml": "smrt_krasnych_srncu_013.xhtml",
+        "id": 12,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      },
+      {
+        "filename": "smrt_krasnych_srncu_014.md",
+        "xhtml": "smrt_krasnych_srncu_014.xhtml",
+        "id": 13,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true
+      }
+    ]
+  },
   "epub": {
     "metadata": {
       "title": "Smrt krásných srnců",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ota Pavel",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-08T09:42:17.967Z"
+      "modified": "2021-09-08T13:14:42.842Z"
     },
     "chapters": [
       {
@@ -39,49 +182,49 @@
         "xhtml": "smrt_krasnych_srncu_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nejdražší ve střední Evropě",
         "subtitleSuggest": "",
         "filename": "smrt_krasnych_srncu_006.md",
         "xhtml": "smrt_krasnych_srncu_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ve službách Švédska",
         "subtitleSuggest": "",
         "filename": "smrt_krasnych_srncu_007.md",
         "xhtml": "smrt_krasnych_srncu_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Smrt krásných srnců",
         "subtitleSuggest": "",
         "filename": "smrt_krasnych_srncu_008.md",
         "xhtml": "smrt_krasnych_srncu_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapři pro wehrmacht",
         "subtitleSuggest": "",
         "filename": "smrt_krasnych_srncu_009.md",
         "xhtml": "smrt_krasnych_srncu_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jak jsme se střetli s Vlky",
         "subtitleSuggest": "",
         "filename": "smrt_krasnych_srncu_010.md",
         "xhtml": "smrt_krasnych_srncu_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Otázka hmyzu vyřešena",
         "subtitleSuggest": "",
         "filename": "smrt_krasnych_srncu_011.md",
         "xhtml": "smrt_krasnych_srncu_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Prase nebude!",
         "subtitleSuggest": "",
         "filename": "smrt_krasnych_srncu_012.md",
         "xhtml": "smrt_krasnych_srncu_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Králíci s moudrýma očima",
         "subtitleSuggest": "",
         "filename": "smrt_krasnych_srncu_013.md",
         "xhtml": "smrt_krasnych_srncu_013.xhtml"
@@ -165,6 +308,6 @@
       "user": "books-are-next",
       "repo": "pavel-smrt-krasnych-srncu"
     },
-    "generatedAt": 1631094138229
+    "generatedAt": 1631106883227
   }
 }
