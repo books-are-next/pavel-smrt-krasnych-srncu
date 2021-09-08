@@ -1,0 +1,170 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Smrt krásných srnců",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ota Pavel",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-08T09:42:17.967Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_001.md",
+        "xhtml": "smrt_krasnych_srncu_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_002.md",
+        "xhtml": "smrt_krasnych_srncu_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_003.md",
+        "xhtml": "smrt_krasnych_srncu_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_004.md",
+        "xhtml": "smrt_krasnych_srncu_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_005.md",
+        "xhtml": "smrt_krasnych_srncu_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_006.md",
+        "xhtml": "smrt_krasnych_srncu_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_007.md",
+        "xhtml": "smrt_krasnych_srncu_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_008.md",
+        "xhtml": "smrt_krasnych_srncu_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_009.md",
+        "xhtml": "smrt_krasnych_srncu_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_010.md",
+        "xhtml": "smrt_krasnych_srncu_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_011.md",
+        "xhtml": "smrt_krasnych_srncu_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_012.md",
+        "xhtml": "smrt_krasnych_srncu_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_013.md",
+        "xhtml": "smrt_krasnych_srncu_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "smrt_krasnych_srncu_014.md",
+        "xhtml": "smrt_krasnych_srncu_014.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/smrt_krasn_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_smrt_krasnych_sr_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Footnote-reference",
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis-bez1radku",
+      "MLP-dopis-bez1radku--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-pozn-pod-carou",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--12-0",
+      "MLP-text--12-12",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "MLP-venovani",
+      "MLP-verse",
+      "MLP-verse--12-12",
+      "char-style-override-1",
+      "char-style-override-2",
+      "char-style-override-3",
+      "char-style-override-4",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "text"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "pavel-smrt-krasnych-srncu"
+    },
+    "generatedAt": 1631094138229
+  }
+}
