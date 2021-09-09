@@ -32,9 +32,10 @@
         "filename": "smrt_krasnych_srncu_001.md",
         "xhtml": "smrt_krasnych_srncu_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_002.md",
@@ -42,7 +43,8 @@
         "id": 1,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_003.md",
@@ -50,15 +52,17 @@
         "id": 2,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_004.md",
         "xhtml": "smrt_krasnych_srncu_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_005.md",
@@ -66,7 +70,8 @@
         "id": 4,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_006.md",
@@ -74,7 +79,9 @@
         "id": 5,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Nejdražší ve střední Evropě",
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_007.md",
@@ -82,7 +89,9 @@
         "id": 6,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Ve službách Švédska",
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_008.md",
@@ -90,7 +99,9 @@
         "id": 7,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Smrt krásných srnců",
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_009.md",
@@ -98,7 +109,9 @@
         "id": 8,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Kapři pro wehrmacht",
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_010.md",
@@ -106,7 +119,9 @@
         "id": 9,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Jak jsme se střetli s Vlky",
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_011.md",
@@ -114,7 +129,9 @@
         "id": 10,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Otázka hmyzu vyřešena",
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_012.md",
@@ -122,7 +139,9 @@
         "id": 11,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Prase nebude!",
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_013.md",
@@ -130,15 +149,18 @@
         "id": 12,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Králíci s moudrýma očima",
+        "children": []
       },
       {
         "filename": "smrt_krasnych_srncu_014.md",
         "xhtml": "smrt_krasnych_srncu_014.xhtml",
         "id": 13,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "children": []
       }
     ]
   },
@@ -148,7 +170,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ota Pavel",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-08T13:14:42.842Z"
+      "modified": "2021-09-09T09:02:01.389Z"
     },
     "chapters": [
       {
@@ -308,6 +330,6 @@
       "user": "books-are-next",
       "repo": "pavel-smrt-krasnych-srncu"
     },
-    "generatedAt": 1631106883227
+    "generatedAt": 1631178121746
   }
 }

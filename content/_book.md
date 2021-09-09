@@ -13,7 +13,6 @@ chapters:
   - smrt_krasnych_srncu_001.html
   - smrt_krasnych_srncu_002.html
   - smrt_krasnych_srncu_003.html
-  - smrt_krasnych_srncu_004.html
   - smrt_krasnych_srncu_005.html
   - smrt_krasnych_srncu_006.html
   - smrt_krasnych_srncu_007.html
@@ -23,8 +22,23 @@ chapters:
   - smrt_krasnych_srncu_011.html
   - smrt_krasnych_srncu_012.html
   - smrt_krasnych_srncu_013.html
-  - smrt_krasnych_srncu_014.html
-tocBase: []
+tocBase:
+  - link: smrt_krasnych_srncu_006.html
+    title: Nejdražší ve střední Evropě
+  - link: smrt_krasnych_srncu_007.html
+    title: Ve službách Švédska
+  - link: smrt_krasnych_srncu_008.html
+    title: Smrt krásných srnců
+  - link: smrt_krasnych_srncu_009.html
+    title: Kapři pro wehrmacht
+  - link: smrt_krasnych_srncu_010.html
+    title: "Jak jsme se střetli s\_Vlky"
+  - link: smrt_krasnych_srncu_011.html
+    title: Otázka hmyzu vyřešena
+  - link: smrt_krasnych_srncu_012.html
+    title: Prase nebude!
+  - link: smrt_krasnych_srncu_013.html
+    title: "Králíci s\_moudrýma očima"
 static:
   - style
   - scripts
