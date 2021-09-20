@@ -4,6 +4,8 @@ title: Ve službách Švédska
 
 Generální ředitel firmy Elektrolux pan František Korálek, u něhož můj tatínek pracoval, byl boháč. Měl třicet tisíc korun pevného platu měsíčně, vilu na Ořechovce, každý rok nové americké auto, žádné děti a v Chuchli svou vlastní stáj Frako (František Korálek), nádherné koně, také značky Elektrolux, a k nim anglické žokeje.
 
+  
+
 Podle tatínka byl však pan Korálek především gangster a hlavní důvod zřejmě spočíval v tom, že měl za ženu paní Irmu, kterou si vůbec nezasloužil. Paní Irma se totiž strašně líbila mému tatínkovi. Na Židovku měla nezvyklé blond vlasy a modré oči, potom překrásně vymodelovaná ňadra, jež se vypínala pod působivými látkami jako atlas nebo šantung[2](#footnote-27518-2), a pevný oblý zadeček. Ztepilostí se vyrovnala klisnám ze stáje svého muže a ve tváři jí ležel oduševnělý výraz vzdělanosti, což nejvíce imponovalo tatínkovi, jenž nevěděl, kdy napsat i anebo y i v těch nejjednodušších slovech, neboť ho v útlém věku ze školy vyloučili pro řadu činů a nakonec proto, že hodil po třídním učiteli Lukešovi kalamář i s inkoustem.
 
 Naše maminka o tatínkově tajné lásce k paní Irmě věděla, ale příliš se tím neznepokojovala. Usoudila, že tatínkovy šance jsou tak mizerné, jako kdyby chtěl zdolat Mount Everest. Měl na krku nás (tři kluky), koně ani americký bourák nevlastnil a rozuměl jen fotbalu, boxu a rybám, čímž paní Irmu nemohl oslnit. A taky minulost mého tatínka byla venkoncem dobře známá. Než přišel k té slavné švédské firmě Elektrolux, prodával hasicí přístroje domácké výroby Tutankamen. Bylo známo, že po zásahu Tutankamenem vyhořela nejedna fabrika. Také se někde zmínil, jak jsme v té době žili, a to se v Praze rozšířilo. Bydleli jsme ve vesničce uprostřed lesů blízko Mariánských Lázní a jedli osolené houby bez vajíček a chleba se zdravou cibulí.
@@ -296,6 +298,6 @@ A druhým spokojeným byl pan profesor Nechleba. Maloval si zase svou Lukrécii
 
   
 
-[2](#footnote-27518-2-backlink) Atlas = druh hedvábné tkaniny s lesklým lícem a matným rubem, příp. oboustranně lesklé; šantung = režná hedvábná tkanina v plátnové vazbě. Pozn. red.
+_[2](#footnote-27518-2-backlink) Atlas = druh hedvábné tkaniny s lesklým lícem a matným rubem, příp. oboustranně lesklé; šantung = režná hedvábná tkanina v plátnové vazbě. Pozn. red._
 
-[3](#footnote-27518-3-backlink) Měkká látka z hrubé mykané příze, často s barevnými uzlíčky. Pozn. red.
+_[3](#footnote-27518-3-backlink) Měkká látka z hrubé mykané příze, často s barevnými uzlíčky. Pozn. red._

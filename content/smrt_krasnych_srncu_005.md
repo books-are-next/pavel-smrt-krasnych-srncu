@@ -2,4 +2,4 @@
 title: ''
 ---
 
-Mamince, která měla za muže mého tatínka
+_Mamince, která měla za muže mého tatínka_

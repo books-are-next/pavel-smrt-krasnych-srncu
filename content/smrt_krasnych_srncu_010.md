@@ -4,6 +4,8 @@ title: "Jak jsme se střetli s\_Vlky"
 
 Po válce jsme přijeli do Luhu. Strejda Prošek nás uvítal a povídal:
 
+  
+
 „Něco vám řeknu. Je tu plno štik. Štiky už netlučou při povrchu jako dřív, a tak rybáři o nich nevědí.“
 
 A tak jsem se s mým tatínkem vydal lodí na ostrov na štiky.
