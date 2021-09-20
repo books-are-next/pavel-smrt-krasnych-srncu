@@ -10,10 +10,6 @@ meta:
   modified: '2021-09-08T09:42:17.967Z'
   languageCode: cs
 chapters:
-  - smrt_krasnych_srncu_001.html
-  - smrt_krasnych_srncu_002.html
-  - smrt_krasnych_srncu_003.html
-  - smrt_krasnych_srncu_005.html
   - smrt_krasnych_srncu_006.html
   - smrt_krasnych_srncu_007.html
   - smrt_krasnych_srncu_008.html
