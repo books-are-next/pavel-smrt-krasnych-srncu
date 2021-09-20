@@ -1,14 +1,14 @@
 {
   "author": "Ota Pavel",
-  "identifier": "pavel-smrt-krasnych-srncu-eaddb7a",
+  "identifier": "pavel-smrt-krasnych-srncu-9aa26ba",
   "languagecode": "cs",
   "modified": "2021-09-08T09:42:17.967Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Smrt krásných srnců",
-  "revision": "eaddb7a",
+  "revision": "9aa26ba",
   "generatedAt": {
-    "date": "Mon Sep 20 2021 13:27:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1632144446991
+    "date": "Mon Sep 20 2021 13:33:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1632144821145
   },
   "documents": [
     {
@@ -19,7 +19,7 @@
       "ideas": 19,
       "role": "colophon",
       "order": null,
-      "next": "smrt_krasnych_srncu_001.html",
+      "next": "smrt_krasnych_srncu_006.html",
       "toc": [
         {
           "index": 0,
@@ -38,7 +38,7 @@
       "ideas": 0,
       "role": "index",
       "order": null,
-      "next": "smrt_krasnych_srncu_001.html",
+      "next": "smrt_krasnych_srncu_006.html",
       "toc": []
     },
     {
@@ -49,7 +49,7 @@
       "ideas": 0,
       "role": "other",
       "order": null,
-      "next": "smrt_krasnych_srncu_001.html",
+      "next": "smrt_krasnych_srncu_006.html",
       "toc": []
     },
     {
@@ -58,10 +58,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "smrt_krasnych_srncu_002.html",
+      "role": "other",
+      "order": null,
+      "next": "smrt_krasnych_srncu_006.html",
       "toc": [
         {
           "index": 0,
@@ -78,10 +77,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "smrt_krasnych_srncu_001.html",
-      "next": "smrt_krasnych_srncu_003.html",
+      "role": "other",
+      "order": null,
+      "next": "smrt_krasnych_srncu_006.html",
       "toc": [
         {
           "index": 0,
@@ -98,10 +96,9 @@
       "words": 5,
       "chars": 27,
       "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "smrt_krasnych_srncu_002.html",
-      "next": "smrt_krasnych_srncu_005.html",
+      "role": "other",
+      "order": null,
+      "next": "smrt_krasnych_srncu_006.html",
       "toc": [
         {
           "index": 0,
@@ -118,9 +115,8 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 3,
-      "prev": "smrt_krasnych_srncu_003.html",
+      "role": "other",
+      "order": null,
       "next": "smrt_krasnych_srncu_006.html",
       "toc": [
         {
@@ -139,8 +135,8 @@
       "chars": 11202,
       "ideas": 64,
       "role": "chapter",
-      "order": 4,
-      "prev": "smrt_krasnych_srncu_005.html",
+      "order": 0,
+      "prev": null,
       "next": "smrt_krasnych_srncu_007.html",
       "toc": [
         {
@@ -159,7 +155,7 @@
       "chars": 31190,
       "ideas": 149,
       "role": "chapter",
-      "order": 5,
+      "order": 1,
       "prev": "smrt_krasnych_srncu_006.html",
       "next": "smrt_krasnych_srncu_008.html",
       "toc": [
@@ -179,7 +175,7 @@
       "chars": 26049,
       "ideas": 112,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "smrt_krasnych_srncu_007.html",
       "next": "smrt_krasnych_srncu_009.html",
       "toc": [
@@ -199,7 +195,7 @@
       "chars": 12373,
       "ideas": 69,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "smrt_krasnych_srncu_008.html",
       "next": "smrt_krasnych_srncu_010.html",
       "toc": [
@@ -219,7 +215,7 @@
       "chars": 5768,
       "ideas": 24,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "smrt_krasnych_srncu_009.html",
       "next": "smrt_krasnych_srncu_011.html",
       "toc": [
@@ -239,7 +235,7 @@
       "chars": 21350,
       "ideas": 96,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "smrt_krasnych_srncu_010.html",
       "next": "smrt_krasnych_srncu_012.html",
       "toc": [
@@ -259,7 +255,7 @@
       "chars": 3533,
       "ideas": 21,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "smrt_krasnych_srncu_011.html",
       "next": "smrt_krasnych_srncu_013.html",
       "toc": [
@@ -279,7 +275,7 @@
       "chars": 10036,
       "ideas": 38,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "smrt_krasnych_srncu_012.html",
       "next": null,
       "toc": [
@@ -300,9 +296,9 @@
       "ideas": 595
     },
     "chapters": {
-      "words": 20811,
-      "chars": 121528,
-      "ideas": 576
+      "words": 20806,
+      "chars": 121501,
+      "ideas": 573
     }
   }
 }
