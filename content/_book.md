@@ -32,13 +32,13 @@ tocBase:
   - link: smrt_krasnych_srncu_009.html
     title: Kapři pro wehrmacht
   - link: smrt_krasnych_srncu_010.html
-    title: "Jak jsme se střetli s\_Vlky"
+    title: Jak jsme se střetli s Vlky
   - link: smrt_krasnych_srncu_011.html
     title: Otázka hmyzu vyřešena
   - link: smrt_krasnych_srncu_012.html
     title: Prase nebude!
   - link: smrt_krasnych_srncu_013.html
-    title: "Králíci s\_moudrýma očima"
+    title: Králíci s moudrýma očima
 static:
   - style
   - scripts

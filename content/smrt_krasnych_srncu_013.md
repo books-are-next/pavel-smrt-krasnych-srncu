@@ -4,6 +4,8 @@ title: "Králíci s\_moudrýma očima"
 
 Naši prodali chatu a koupili si domeček u Radotína, nad jeho střechou kvetla jabloň. Byla to jejich poslední štace tady na zemi a byla to štace šťastná. Pracovali a žili v bláhovém snu o Mesiáši, že se jednou vzmůžou. Ale protože víc pracovali, než snili, nebylo to tak špatné. Tatínek už nechodil za ženskými, bouře přešla, nastal klid. Jenom peněz bylo málo.
 
+  
+
 Rozhodl se znovu, že zase nadělá majlant, tentokrát za pomoci králíků. Králíky zpočátku kupoval, pak je rozdával anebo prodával. Pracoval jako nikdy v životě. Postavil pro králíky desítky kotců, ozdobil je závěsy, vypadaly jako hrady pro ušaté panstvo. Zavedl si zvláštní chov králíků šampanů, měli barvu jak americké rakety startující na Měsíc, někdy byli víc stříbrní a někdy víc šedí a oči měli na králíky krásné a moudré, jako by všechno věděli. Vyprávěl si s nimi celé hodiny a drbal je pod bradou. Mám dojem, že ho králíci milovali.
 
 Ráno a večer jim chodil na trávu, aby měli pořád čerstvou. Vstával brzy, kdy ještě spal celý kraj a tráva nebyla zvadlá. Byl to úplný obřad. Rozednívalo se, na zelených stonkách se třpytila rosa a kolem skotačili divocí králíci, kterých tu bylo v haldách vždycky dost, a opodál pokřikovali bažanti, všichni už tatínka znali. Klečel na koleně. Měl vždycky správně naklepaný ostrý srp, ten trávu neškubal. Položil ho, srp syčel: „Pššš!“ a „Pššš!“ a tráva se skládala rovnou do kytic. Pro každého králíka, jak pro jednu dámu z první lóže, jedna kytice. Pak jel s vozíkem, zapřáhl se do opratí a hvízdal si. Králíkům cpal trávu do kotců, ještě pomžourávali a on je budil:

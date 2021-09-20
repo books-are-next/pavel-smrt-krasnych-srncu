@@ -4,6 +4,8 @@ title: Smrt krásných srnců
 
 My tři kluci jsme do toho kraje za hrad Křivoklát ohromně rádi jezdili. Tenkrát jsem nevěděl proč, ale dnes to vím. Můj tatínek pochopil už tenkrát, že jednou můžu uvidět bulváry Paříže a mrakodrapy New Yorku, ale už nikdy nebudu moci týdny bydlet v chalupě, kde voní v peci chleba a v máselnici se tluče máslo, protože u těch chalup budou jednou zastavovat embéčka, uvnitř budou blikat televizory, podají vám špatnou černou kávu a vybledlý chleba.
 
+  
+
 Kdysi tatínek hledal ten kraj po čuchu. Ve třicátých letech minul s naším osobním šoférem Tondou Valentou hrad Křivoklát a stoupal strašnými serpentinami dále na západ podél řeky Berounky, ve které tenkrát plavaly štiky jak krokodýlové a na mělčinách se v řasách převalovali tloušti a parmy jak polena. Tatínek všechno pozoroval a mířil dál až k zájezdní hospůdce U Rozvědčíka a tam jsme na dvě sezóny zůstali. Ale nebylo to ono. Přestože paní Fraňková byla krásná a příjemná žena a uměla báječný guláš a dršťkovou, v sobotu a v neděli tam byl kravál. Přijely spousty trempířů, čundráků, vandráků a kovbojíčků a z tiché hospůdky udělali peklo hodné Západu. Zpočátku posílala maminka tatínka za trempíři, aby je uprosil, ať tolik nehlučí, ale po několika pokusech se vzdala. Brzy totiž v znějících písních o tom, že život je pes a že nejkrásnější je žít na řece Youkonu bez ženy, vynikal tatínkův krásný hlas a k nám ubohým dětem zvlášť pronikal ryk nástrojů, které tatínek jedině ovládal, což bylo koště a pokličky půjčené od paní Fraňkové. Ráno ho maminka našla sedět u studny podnapilého; hrál na hřeben sentimentální písničky o svém černém Kladnu.
 
 Žili tam v tom kraji krásní lidé, jako tulák Bambas. Od jara do zimy nepracoval, chytal ryby u Čertovy skály. Na každý den měl v hadrovém sáčku připraveno pět kostiček cukru ze zimních časů, kdy pracoval málo. Jeho život mě okouzloval a ještě v pozdějších letech, kdy si jiní přáli být spisovateli nebo letci, přál jsem si být Bambasem. Spal v polorozbořené chatce a přikrýval se opelichanou kůží z jelena. Uměl fantasticky chytat ryby, všemi dovolenými a hlavně nedovolenými způsoby. Maminka mě s Bambasem nerada viděla, bála se, že mě zkazí. Bohužel se mu to nepovedlo.
@@ -12,10 +14,10 @@ Ale abych se vrátil k tomu, co se dělo pak s mým tatínkem a s námi. Po 
 
 Koumáctvím a dřinou Karla Proška a penězi mého tatínka byla to rázem nejbohatší chalupa v Luhu. Ve sklepě stály kamenné hrnce s naloženými rybami v octě a cibuli, a když je človíček vzal, tekla mu šťáva mezi prsty a padaly z toho hamťavé drobky, dělalo se mu mdlo před očima i za očima, jak to bylo dobrý. Pak tam stály kastroly s naloženým srnčím a visely pletence pražských buřtů od Macešky a stály tam bandasky se smetanou a konve s mlíkem. A pekl se chléb a koláče. Tatínek nám koupil originál žlutou anglickou merunu, hráli jsme na plácku fotbal a v okně našeho pokojíčku stál gramofon na kličku, a jak se natočil, vyhrával:
 
-Za volantem stále kupředu,  
-někde v dáli je náš cíl,  
-jenom pevné nervy zdolají  
-nebezpečí tisíc mil.
+> Za volantem stále kupředu,  
+> někde v dáli je náš cíl,  
+> jenom pevné nervy zdolají  
+> nebezpečí tisíc mil.
 
 Srnčí opatřoval Karel Prošek záhadným způsobem v křivoklátských lesích, aspoň dlouhá léta to nikdo nevěděl. V Proškovi ovšem kolovala od narození pytlácká krev. Už jeho dědeček proslul uzavřením sázky, že proveze v poledne nejsilnějšího srnce z křivoklátských lesů kolem četnické stanice, a také to dokázal, v rakvi a pohřebním voze, a jindy jeho maminka, když četníci přišli na prohlídku, houpala srnce v kolíbce. Tyhle dvě potupy, když se roznesly, nemohli četníci Proš­kům zapomenout, a tak Karel věděl, že si nedá ani ránu, a flintičku hodil raději nad jezem do Berounky.
 
@@ -197,8 +199,8 @@ Za tmy vyrazil od přívozu, chudák Prošek mu někde sehnal na cestu stovku ci
 
 Tahle česká paní, kterou neznal jménem, ho vzala domů, s mužem mu srnce přebalili, uvařili mu kafe, aby se posilnil na cestu, a fleky na kabátě mu zatím vyprala. A potom už můj povedený tatínek frčel dál a byl už nějaký klidný, protože po tom, co prožil v křivoklátských lesích a teď, věděl, že má dnes a také zítra kliku a že se nic nestane. Jel jak z výletu, a když se rozednilo a minulo ho obrněné auto wehrmachtu bez povšimnutí, začal si broukat písničky z legií a taky tu neslušnou německou:
 
-Der Elefant von Indien,  
-der kann Loch nicht findien.[5](#footnote-27518-5)
+> Der Elefant von Indien,  
+> der kann Loch nicht findien.[5](#footnote-27518-5)
 
 Začínalo léto a bylo krásně, květy z třešní už opadaly a padaly květy z hrušek a jabloní a začaly se tvořit plody v tom třetím roce války.
 
@@ -210,6 +212,6 @@ Strejda Prošek tu hlavu srnce vypreparoval a pověsil si ji nad dveře své sn
 
   
 
-[4](#footnote-27518-4-backlink) Krysy (nebo potkani). Pozn. red.
+_[4](#footnote-27518-4-backlink) Krysy (nebo potkani). Pozn. red._
 
-[5](#footnote-27518-5-backlink) Slon z Indie nemůže najít díru. Pozn. red.
+_[5](#footnote-27518-5-backlink) Slon z Indie nemůže najít díru. Pozn. red._
