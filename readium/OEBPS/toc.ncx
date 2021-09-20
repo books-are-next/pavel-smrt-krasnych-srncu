@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Smrt krásných srnců</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Nejdražší ve střední Evropě</text>
+      </navLabel>
+      <content src="Text/smrt_krasnych_srncu_006.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Ve službách Švédska</text>
+      </navLabel>
+      <content src="Text/smrt_krasnych_srncu_007.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Smrt krásných srnců</text>
+      </navLabel>
+      <content src="Text/smrt_krasnych_srncu_008.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Kapři pro wehrmacht</text>
+      </navLabel>
+      <content src="Text/smrt_krasnych_srncu_009.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Jak jsme se střetli s Vlky</text>
+      </navLabel>
+      <content src="Text/smrt_krasnych_srncu_010.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Otázka hmyzu vyřešena</text>
+      </navLabel>
+      <content src="Text/smrt_krasnych_srncu_011.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Prase nebude!</text>
+      </navLabel>
+      <content src="Text/smrt_krasnych_srncu_012.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Králíci s moudrýma očima</text>
+      </navLabel>
+      <content src="Text/smrt_krasnych_srncu_013.xhtml#toc_marker-8"/>
+    </navPoint>
+  </navMap>
+</ncx>
