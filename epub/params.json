@@ -19,10 +19,10 @@
       "hrAfter": "",
       "br": "",
       "brBefore": "",
-      "brAfter": "",
-      "blockquote": "",
+      "brAfter": "MLP-text-bez1radku MLP-text-bez1radku--0-12 MLP-text-bez1radku--12-0 ",
+      "blockquote": "MLP-dopis-bez1radku MLP-dopis-bez1radku--I MLP-verse--12-12 MLP-verse ",
       "figure": "",
-      "em": "",
+      "em": "MLP-dopis-bez1radku--I MLP-venovani MLP MLP-pozn-pod-carou ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -120,7 +120,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Jak jsme se střetli s Vlky",
+        "title": "Jak jsme se střetli s Vlky",
         "children": []
       },
       {
@@ -150,7 +150,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Králíci s moudrýma očima",
+        "title": "Králíci s moudrýma očima",
         "children": []
       },
       {
@@ -170,7 +170,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ota Pavel",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-08T13:14:42.842Z"
+      "modified": "2021-09-20T12:43:48.857Z"
     },
     "chapters": [
       {
@@ -228,7 +228,7 @@
         "xhtml": "smrt_krasnych_srncu_009.xhtml"
       },
       {
-        "titleSuggest": "Jak jsme se střetli s Vlky",
+        "titleSuggest": "Jak jsme se střetli s Vlky",
         "subtitleSuggest": "",
         "filename": "smrt_krasnych_srncu_010.md",
         "xhtml": "smrt_krasnych_srncu_010.xhtml"
@@ -246,7 +246,7 @@
         "xhtml": "smrt_krasnych_srncu_012.xhtml"
       },
       {
-        "titleSuggest": "Králíci s moudrýma očima",
+        "titleSuggest": "Králíci s moudrýma očima",
         "subtitleSuggest": "",
         "filename": "smrt_krasnych_srncu_013.md",
         "xhtml": "smrt_krasnych_srncu_013.xhtml"
@@ -330,6 +330,6 @@
       "user": "books-are-next",
       "repo": "pavel-smrt-krasnych-srncu"
     },
-    "generatedAt": 1631106883227
+    "generatedAt": 1632141829263
   }
 }
