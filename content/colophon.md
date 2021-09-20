@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Znění tohoto textu vychází z díla [Smrt krásných srnců](https://search.mlp.cz/cz/titul/smrt-krasnych-srncu/2415245/#book-content) tak, jak bylo vydáno nakladatelstvím Slávka Kopecká v Praze v roce 2004. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -17,9 +19,7 @@ Verze 1.0 z 16. 4. 2020.
 ![image002.jpg](./resources/image002_fmt.png)
 
 
----
-title: ''
----
+***
 
 Ota Pavel  
 Smrt krásných srnců
