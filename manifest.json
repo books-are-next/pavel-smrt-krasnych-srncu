@@ -1,0 +1,308 @@
+{
+  "author": "Ota Pavel",
+  "identifier": "pavel-smrt-krasnych-srncu-eaddb7a",
+  "languagecode": "cs",
+  "modified": "2021-09-08T09:42:17.967Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Smrt krásných srnců",
+  "revision": "eaddb7a",
+  "generatedAt": {
+    "date": "Mon Sep 20 2021 13:27:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1632144446991
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 138,
+      "chars": 913,
+      "ideas": 19,
+      "role": "colophon",
+      "order": null,
+      "next": "smrt_krasnych_srncu_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "smrt_krasnych_srncu_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "smrt_krasnych_srncu_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "smrt_krasnych_srncu_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "smrt_krasnych_srncu_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "smrt_krasnych_srncu_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "smrt_krasnych_srncu_001.html",
+      "next": "smrt_krasnych_srncu_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "smrt_krasnych_srncu_003.html",
+      "words": 5,
+      "chars": 27,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "smrt_krasnych_srncu_002.html",
+      "next": "smrt_krasnych_srncu_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "smrt_krasnych_srncu_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 3,
+      "prev": "smrt_krasnych_srncu_003.html",
+      "next": "smrt_krasnych_srncu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejdražší ve střední Evropě",
+      "file": "smrt_krasnych_srncu_006.html",
+      "words": 1876,
+      "chars": 11202,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 4,
+      "prev": "smrt_krasnych_srncu_005.html",
+      "next": "smrt_krasnych_srncu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejdražší ve střední Evropě",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ve službách Švédska",
+      "file": "smrt_krasnych_srncu_007.html",
+      "words": 5230,
+      "chars": 31190,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 5,
+      "prev": "smrt_krasnych_srncu_006.html",
+      "next": "smrt_krasnych_srncu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve službách Švédska",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smrt krásných srnců",
+      "file": "smrt_krasnych_srncu_008.html",
+      "words": 4617,
+      "chars": 26049,
+      "ideas": 112,
+      "role": "chapter",
+      "order": 6,
+      "prev": "smrt_krasnych_srncu_007.html",
+      "next": "smrt_krasnych_srncu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smrt krásných srnců",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapři pro wehrmacht",
+      "file": "smrt_krasnych_srncu_009.html",
+      "words": 2145,
+      "chars": 12373,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 7,
+      "prev": "smrt_krasnych_srncu_008.html",
+      "next": "smrt_krasnych_srncu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapři pro wehrmacht",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsme se střetli s Vlky",
+      "file": "smrt_krasnych_srncu_010.html",
+      "words": 1017,
+      "chars": 5768,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 8,
+      "prev": "smrt_krasnych_srncu_009.html",
+      "next": "smrt_krasnych_srncu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsme se střetli s Vlky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otázka hmyzu vyřešena",
+      "file": "smrt_krasnych_srncu_011.html",
+      "words": 3576,
+      "chars": 21350,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 9,
+      "prev": "smrt_krasnych_srncu_010.html",
+      "next": "smrt_krasnych_srncu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otázka hmyzu vyřešena",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prase nebude!",
+      "file": "smrt_krasnych_srncu_012.html",
+      "words": 614,
+      "chars": 3533,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 10,
+      "prev": "smrt_krasnych_srncu_011.html",
+      "next": "smrt_krasnych_srncu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prase nebude!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Králíci s moudrýma očima",
+      "file": "smrt_krasnych_srncu_013.html",
+      "words": 1731,
+      "chars": 10036,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 11,
+      "prev": "smrt_krasnych_srncu_012.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Králíci s moudrýma očima",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 20949,
+      "chars": 122441,
+      "ideas": 595
+    },
+    "chapters": {
+      "words": 20811,
+      "chars": 121528,
+      "ideas": 576
+    }
+  }
+}
