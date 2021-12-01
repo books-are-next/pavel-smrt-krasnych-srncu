@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Smrt krásných srnců",
@@ -6,7 +7,9 @@
       "author": "Ota Pavel",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-08T09:42:17.967Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -32,7 +35,7 @@
         "filename": "smrt_krasnych_srncu_001.md",
         "xhtml": "smrt_krasnych_srncu_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -333,3 +336,4 @@
     "generatedAt": 1632141829263
   }
 }
+
