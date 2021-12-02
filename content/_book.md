@@ -9,7 +9,12 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-08T09:42:17.967Z'
   languageCode: cs
-chapters:
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
+  - smrt_krasnych_srncu_002.html
+  - smrt_krasnych_srncu_003.html
+  - smrt_krasnych_srncu_005.html
   - smrt_krasnych_srncu_006.html
   - smrt_krasnych_srncu_007.html
   - smrt_krasnych_srncu_008.html
@@ -18,6 +23,7 @@ chapters:
   - smrt_krasnych_srncu_011.html
   - smrt_krasnych_srncu_012.html
   - smrt_krasnych_srncu_013.html
+  - colophon.html
 tocBase:
   - link: smrt_krasnych_srncu_006.html
     title: Nejdražší ve střední Evropě
@@ -41,5 +47,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

@@ -6,7 +6,7 @@ Generální ředitel firmy Elektrolux pan František Korálek, u něhož můj t
 
   
 
-Podle tatínka byl však pan Korálek především gangster a hlavní důvod zřejmě spočíval v tom, že měl za ženu paní Irmu, kterou si vůbec nezasloužil. Paní Irma se totiž strašně líbila mému tatínkovi. Na Židovku měla nezvyklé blond vlasy a modré oči, potom překrásně vymodelovaná ňadra, jež se vypínala pod působivými látkami jako atlas nebo šantung[2](#footnote-27518-2), a pevný oblý zadeček. Ztepilostí se vyrovnala klisnám ze stáje svého muže a ve tváři jí ležel oduševnělý výraz vzdělanosti, což nejvíce imponovalo tatínkovi, jenž nevěděl, kdy napsat i anebo y i v těch nejjednodušších slovech, neboť ho v útlém věku ze školy vyloučili pro řadu činů a nakonec proto, že hodil po třídním učiteli Lukešovi kalamář i s inkoustem.
+Podle tatínka byl však pan Korálek především gangster a hlavní důvod zřejmě spočíval v tom, že měl za ženu paní Irmu, kterou si vůbec nezasloužil. Paní Irma se totiž strašně líbila mému tatínkovi. Na Židovku měla nezvyklé blond vlasy a modré oči, potom překrásně vymodelovaná ňadra, jež se vypínala pod působivými látkami jako atlas nebo šantung[^2], a pevný oblý zadeček. Ztepilostí se vyrovnala klisnám ze stáje svého muže a ve tváři jí ležel oduševnělý výraz vzdělanosti, což nejvíce imponovalo tatínkovi, jenž nevěděl, kdy napsat i anebo y i v těch nejjednodušších slovech, neboť ho v útlém věku ze školy vyloučili pro řadu činů a nakonec proto, že hodil po třídním učiteli Lukešovi kalamář i s inkoustem.
 
 Naše maminka o tatínkově tajné lásce k paní Irmě věděla, ale příliš se tím neznepokojovala. Usoudila, že tatínkovy šance jsou tak mizerné, jako kdyby chtěl zdolat Mount Everest. Měl na krku nás (tři kluky), koně ani americký bourák nevlastnil a rozuměl jen fotbalu, boxu a rybám, čímž paní Irmu nemohl oslnit. A taky minulost mého tatínka byla venkoncem dobře známá. Než přišel k té slavné švédské firmě Elektrolux, prodával hasicí přístroje domácké výroby Tutankamen. Bylo známo, že po zásahu Tutankamenem vyhořela nejedna fabrika. Také se někde zmínil, jak jsme v té době žili, a to se v Praze rozšířilo. Bydleli jsme ve vesničce uprostřed lesů blízko Mariánských Lázní a jedli osolené houby bez vajíček a chleba se zdravou cibulí.
 
@@ -34,7 +34,7 @@ A usmála se na tatínka, ale on nějak nepochopil, že je to jen takový spole
 
 „Chlapci, tatínek teď asi začne vyvádět.“
 
-A taky jo. Oblékl se jako dandy. Od Meindla-Mecelese na Pří­kopech si pořídil anglické šaty, od Poppra-Krásy ve Vodičkově ulici boty a od Knížete plášť z látky homespun[3](#footnote-27518-3). To byla tehdy moc drahá látka a měla tu vlastnost, že s ní dělal nenápadně před zákazníky a jednou také před paní Irmou malé výstupy: vrazil do ní tužku, takže koukala jen půlka, pak tužku vytáhl a látka se sama zatáhla. A stříhat a holit – abych nezapomněl – se tou dobou nechával u jednoho z nejlepších holičů v Praze, pana Webera v pasáži Alfa. K dovršení všeho koupil americký vůz. Pravda, nejnovější bourák to nebyl, ale byl to přece jen americký automobil značky Buick s dvěma reflektory a plátěnou střechou, šestiválec, šestadvacet litrů na sto kilometrů. Maminka sepjala ruce a naříkala:
+A taky jo. Oblékl se jako dandy. Od Meindla-Mecelese na Pří­kopech si pořídil anglické šaty, od Poppra-Krásy ve Vodičkově ulici boty a od Knížete plášť z látky homespun[^3]. To byla tehdy moc drahá látka a měla tu vlastnost, že s ní dělal nenápadně před zákazníky a jednou také před paní Irmou malé výstupy: vrazil do ní tužku, takže koukala jen půlka, pak tužku vytáhl a látka se sama zatáhla. A stříhat a holit – abych nezapomněl – se tou dobou nechával u jednoho z nejlepších holičů v Praze, pana Webera v pasáži Alfa. K dovršení všeho koupil americký vůz. Pravda, nejnovější bourák to nebyl, ale byl to přece jen americký automobil značky Buick s dvěma reflektory a plátěnou střechou, šestiválec, šestadvacet litrů na sto kilometrů. Maminka sepjala ruce a naříkala:
 
 „Leoušku, co s takovým velkým autem budem dělat? A kdo s tím bude jezdit?“
 
@@ -298,6 +298,6 @@ A druhým spokojeným byl pan profesor Nechleba. Maloval si zase svou Lukrécii
 
   
 
-_[2](#footnote-27518-2-backlink) Atlas = druh hedvábné tkaniny s lesklým lícem a matným rubem, příp. oboustranně lesklé; šantung = režná hedvábná tkanina v plátnové vazbě. Pozn. red._
+_[^2] Atlas = druh hedvábné tkaniny s lesklým lícem a matným rubem, příp. oboustranně lesklé; šantung = režná hedvábná tkanina v plátnové vazbě. Pozn. red._
 
-_[3](#footnote-27518-3-backlink) Měkká látka z hrubé mykané příze, často s barevnými uzlíčky. Pozn. red._
+_[^3] Měkká látka z hrubé mykané příze, často s barevnými uzlíčky. Pozn. red._

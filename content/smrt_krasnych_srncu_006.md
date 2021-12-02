@@ -56,7 +56,7 @@ Maminka měla pro tatínkovy slabosti vždycky pochopení a tak taky přistupov
 
 Já nevěděl, co je to majlant, ale muselo to být něco krásného a velkého, protože tatínek se blaženě usmíval a hladil maminku po rukou.
 
-Blížil se podzim a s ním výlov našeho prvního rybníka. Naše rodina, a hlavně tatínek, se chystala na ten den jak na veliký svátek. Tatínek si vzal u své firmy Elektrolux volno – pan ředitel se ptal: „Zas na ryby? Zas na ryby? To vás zahubí, pane inspektor,“ – a maminka si pořídila zvlášť k této příležitosti slušivý kabát z koverkotu[1](#footnote-27518-1). Maminka musela pozvat své švagry dělníky, pořízky Karla Kopřivu a Karla Hrůzu. Dostali přesný úkol: budou hlídat na hrázi, aby vylovené kapry nikdo neukradl. Přijeli k rybníku i s rodinami. Můj tatínek zjednal na výlov rybníka rybáře z povolání pana Stehlíka ze Smíchova. Ten přijel s osmi muži, oblečenými od hlavy až k patě v gumových oblecích. Pan Stehlík, silný, starý a zkušený člověk, si potrpěl na pořádek. To, co se rozvinulo na hrázi toho idylického rybníka s vrbami a stulíky, se spíše podobalo vojenskému tažení proti neznámému nepříteli. Na hrázi stály dvě pětitunky značky „PRAGA“, na nich kyslíkové bomby a sudy „lejty“ na převoz kaprů. Po hrázi se pohybovali tiše gumoví muži a rozkládali sítě.
+Blížil se podzim a s ním výlov našeho prvního rybníka. Naše rodina, a hlavně tatínek, se chystala na ten den jak na veliký svátek. Tatínek si vzal u své firmy Elektrolux volno – pan ředitel se ptal: „Zas na ryby? Zas na ryby? To vás zahubí, pane inspektor,“ – a maminka si pořídila zvlášť k této příležitosti slušivý kabát z koverkotu[^1]. Maminka musela pozvat své švagry dělníky, pořízky Karla Kopřivu a Karla Hrůzu. Dostali přesný úkol: budou hlídat na hrázi, aby vylovené kapry nikdo neukradl. Přijeli k rybníku i s rodinami. Můj tatínek zjednal na výlov rybníka rybáře z povolání pana Stehlíka ze Smíchova. Ten přijel s osmi muži, oblečenými od hlavy až k patě v gumových oblecích. Pan Stehlík, silný, starý a zkušený člověk, si potrpěl na pořádek. To, co se rozvinulo na hrázi toho idylického rybníka s vrbami a stulíky, se spíše podobalo vojenskému tažení proti neznámému nepříteli. Na hrázi stály dvě pětitunky značky „PRAGA“, na nich kyslíkové bomby a sudy „lejty“ na převoz kaprů. Po hrázi se pohybovali tiše gumoví muži a rozkládali sítě.
 
 Z rybníka vytékala voda a tatínek v předtuše značných výdělků za prodané kapry, které přislíbil závodu Vaňha, častoval hosty.
 
@@ -130,4 +130,4 @@ Pan doktor Václavík si to tenkrát nejel vyřídit do Prahy s tatínkem boxer
 
   
 
-_[1](#footnote-27518-1-backlink) Silnější plášťová nebo obleková látka z dvojbarevné nitě. Pozn. red._
+_[^1] Silnější plášťová nebo obleková látka z dvojbarevné nitě. Pozn. red._

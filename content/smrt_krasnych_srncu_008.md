@@ -23,7 +23,7 @@ Srnčí opatřoval Karel Prošek záhadným způsobem v křivoklátských lesí
 
 Ale můj nevlastní strejda Prošek, pro mě zajímavější než všichni vlastní, šel na to jinak. Opatřil si od sedláka Nováka štěně vlčáka a dal mu jméno Holan, podle slavné pražské špeditérské firmy. Však by taky Holan mohl stěhovat nábytek. Měl mohutnou hruď, silné nohy a obrovskou tlamu a nos mu ještě navíc koukal z čumáku ven a světla měl žlutá a přemýšlivá, jenže za těma očima bylo ještě něco schovaného. Byly to vlčí oči. Někde se prostě v kolejích jeho příbuzenských vztahů něco přihodilo a Holan byl v podstatě vlk. Valil se ještě jako štěněčí kulička s vypoulenými kukadly a už zabíjel slepice. Haf a haf. Vrrr a vrrr. A hlavně škub a trh a SMRT. To později. A proto se ho sedlák Novák rád zbavil. Ale byl to přesně takový pes, jakého potřeboval strejda Prošek.
 
-Přihnal husy domů a tu, na kterou mu strejda Prošek před posvícením ukázal, zakousl jako malinu. Vyháněl kravku a slepice z políček. Ráno našel Prošek na prahu chaty zabitou kunu nebo tchoře a zakousnuté němkyně[4](#footnote-27518-4) ležely vyrovnány v řadě jako slepice na hřadě. Před námi svedl Holan rvačku se silným lišákem, nesoucím do lesa ukradenou kachničku. Holan ho dohonil ve stráni a skočil mu na krk. Ale lišák nebyl začátečník. Hodinu z nich lítaly chlupy a kapala krev, zmítající se klubko se přesunulo o kilometr k řece, kde nakonec Holan, který uměl lovit pstruhy, držel lišáka tak dlouho pod vodou, až se utopil.
+Přihnal husy domů a tu, na kterou mu strejda Prošek před posvícením ukázal, zakousl jako malinu. Vyháněl kravku a slepice z políček. Ráno našel Prošek na prahu chaty zabitou kunu nebo tchoře a zakousnuté němkyně[^4] ležely vyrovnány v řadě jako slepice na hřadě. Před námi svedl Holan rvačku se silným lišákem, nesoucím do lesa ukradenou kachničku. Holan ho dohonil ve stráni a skočil mu na krk. Ale lišák nebyl začátečník. Hodinu z nich lítaly chlupy a kapala krev, zmítající se klubko se přesunulo o kilometr k řece, kde nakonec Holan, který uměl lovit pstruhy, držel lišáka tak dlouho pod vodou, až se utopil.
 
 Někde uvnitř Proška a Holana rostlo přátelství, jaké jsem nikdy neviděl ani mezi lidmi. Holan pro Proška skákal z lásky do vody. Vždycky když ho Prošek nechtěl s sebou vzít s lodí na druhou stranu řeky, když tekla velká kalná voda anebo když pluly ledové námrazky, vrhal se Holan do řeky a plaval za pánem.
 
@@ -200,7 +200,7 @@ Za tmy vyrazil od přívozu, chudák Prošek mu někde sehnal na cestu stovku ci
 Tahle česká paní, kterou neznal jménem, ho vzala domů, s mužem mu srnce přebalili, uvařili mu kafe, aby se posilnil na cestu, a fleky na kabátě mu zatím vyprala. A potom už můj povedený tatínek frčel dál a byl už nějaký klidný, protože po tom, co prožil v křivoklátských lesích a teď, věděl, že má dnes a také zítra kliku a že se nic nestane. Jel jak z výletu, a když se rozednilo a minulo ho obrněné auto wehrmachtu bez povšimnutí, začal si broukat písničky z legií a taky tu neslušnou německou:
 
 > Der Elefant von Indien,  
-> der kann Loch nicht findien.[5](#footnote-27518-5)
+> der kann Loch nicht findien.[^5]
 
 Začínalo léto a bylo krásně, květy z třešní už opadaly a padaly květy z hrušek a jabloní a začaly se tvořit plody v tom třetím roce války.
 
@@ -212,6 +212,6 @@ Strejda Prošek tu hlavu srnce vypreparoval a pověsil si ji nad dveře své sn
 
   
 
-_[4](#footnote-27518-4-backlink) Krysy (nebo potkani). Pozn. red._
+_[^4] Krysy (nebo potkani). Pozn. red._
 
-_[5](#footnote-27518-5-backlink) Slon z Indie nemůže najít díru. Pozn. red._
+_[^5] Slon z Indie nemůže najít díru. Pozn. red._
