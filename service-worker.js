@@ -1,7 +1,8 @@
-/* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-1c42f1d';
+/* global self, caches, fetch */
+
+const CACHE = 'cache-3179c81';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./resources.html","./smrt_krasnych_srncu_001.html","./smrt_krasnych_srncu_002.html","./smrt_krasnych_srncu_003.html","./smrt_krasnych_srncu_005.html","./smrt_krasnych_srncu_006.html","./smrt_krasnych_srncu_007.html","./smrt_krasnych_srncu_008.html","./smrt_krasnych_srncu_009.html","./smrt_krasnych_srncu_010.html","./smrt_krasnych_srncu_011.html","./smrt_krasnych_srncu_012.html","./smrt_krasnych_srncu_013.html","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/index.xml","./resources/obalka_smrt_krasnych_sr_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./smrt_krasnych_srncu_002.html","./smrt_krasnych_srncu_003.html","./smrt_krasnych_srncu_005.html","./smrt_krasnych_srncu_006.html","./smrt_krasnych_srncu_007.html","./smrt_krasnych_srncu_008.html","./smrt_krasnych_srncu_009.html","./smrt_krasnych_srncu_010.html","./smrt_krasnych_srncu_011.html","./smrt_krasnych_srncu_012.html","./smrt_krasnych_srncu_013.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_smrt_krasnych_sr_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {
