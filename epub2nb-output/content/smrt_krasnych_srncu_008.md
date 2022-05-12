@@ -1,5 +1,6 @@
 ---
 title: Smrt krásných srnců
+contentType: prose
 ---
 
 My tři kluci jsme do toho kraje za hrad Křivoklát ohromně rádi jezdili. Tenkrát jsem nevěděl proč, ale dnes to vím. Můj tatínek pochopil už tenkrát, že jednou můžu uvidět bulváry Paříže a mrakodrapy New Yorku, ale už nikdy nebudu moci týdny bydlet v chalupě, kde voní v peci chleba a v máselnici se tluče máslo, protože u těch chalup budou jednou zastavovat embéčka, uvnitř budou blikat televizory, podají vám špatnou černou kávu a vybledlý chleba.

@@ -1,21 +1,37 @@
 {
-  "author": "Ota Pavel",
-  "edition": "beletrie",
-  "identifier": "pavel-smrt-krasnych-srncu-3179c81",
-  "languagecode": "cs",
-  "modified": "2021-09-08T09:42:17.967Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Smrt krásných srnců",
-  "revision": "3179c81",
+  "author": "Ota Pavel",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "pavel-smrt-krasnych-srncu-041c19d",
+  "revision": "041c19d",
+  "readingOrder": [
+    "promo.html",
+    "smrt_krasnych_srncu_003.html",
+    "smrt_krasnych_srncu_005.html",
+    "smrt_krasnych_srncu_006.html",
+    "smrt_krasnych_srncu_007.html",
+    "smrt_krasnych_srncu_008.html",
+    "smrt_krasnych_srncu_009.html",
+    "smrt_krasnych_srncu_010.html",
+    "smrt_krasnych_srncu_011.html",
+    "smrt_krasnych_srncu_012.html",
+    "smrt_krasnych_srncu_013.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 10:25:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638440732063
+    "date": "Thu May 12 2022 10:35:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351747168
   },
   "documents": [
     {
-      "title": "Smrt krásných srnců",
-      "file": "smrt_krasnych_srncu_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +39,7 @@
       "order": 0,
       "prev": null,
       "next": "smrt_krasnych_srncu_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Smrt krásných srnců",
@@ -41,7 +49,7 @@
       "ideas": 3,
       "role": "chapter",
       "order": 1,
-      "prev": "smrt_krasnych_srncu_002.html",
+      "prev": "promo.html",
       "next": "smrt_krasnych_srncu_005.html",
       "toc": [
         {
@@ -74,7 +82,7 @@
       ]
     },
     {
-      "title": "Nejdražší ve střední Evropě • Smrt krásných srnců",
+      "title": "Nejdražší ve střední Evropě",
       "file": "smrt_krasnych_srncu_006.html",
       "words": 1876,
       "chars": 11208,
@@ -94,7 +102,7 @@
       ]
     },
     {
-      "title": "Ve službách Švédska • Smrt krásných srnců",
+      "title": "Ve službách Švédska",
       "file": "smrt_krasnych_srncu_007.html",
       "words": 5230,
       "chars": 31202,
@@ -114,7 +122,7 @@
       ]
     },
     {
-      "title": "Smrt krásných srnců • Smrt krásných srnců",
+      "title": "Smrt krásných srnců",
       "file": "smrt_krasnych_srncu_008.html",
       "words": 4613,
       "chars": 26061,
@@ -134,7 +142,7 @@
       ]
     },
     {
-      "title": "Kapři pro wehrmacht • Smrt krásných srnců",
+      "title": "Kapři pro wehrmacht",
       "file": "smrt_krasnych_srncu_009.html",
       "words": 2145,
       "chars": 12373,
@@ -154,7 +162,7 @@
       ]
     },
     {
-      "title": "Jak jsme se střetli s Vlky • Smrt krásných srnců",
+      "title": "Jak jsme se střetli s Vlky",
       "file": "smrt_krasnych_srncu_010.html",
       "words": 1017,
       "chars": 5768,
@@ -174,7 +182,7 @@
       ]
     },
     {
-      "title": "Otázka hmyzu vyřešena • Smrt krásných srnců",
+      "title": "Otázka hmyzu vyřešena",
       "file": "smrt_krasnych_srncu_011.html",
       "words": 3570,
       "chars": 21350,
@@ -194,7 +202,7 @@
       ]
     },
     {
-      "title": "Prase nebude! • Smrt krásných srnců",
+      "title": "Prase nebude!",
       "file": "smrt_krasnych_srncu_012.html",
       "words": 613,
       "chars": 3533,
@@ -214,7 +222,7 @@
       ]
     },
     {
-      "title": "Králíci s moudrýma očima • Smrt krásných srnců",
+      "title": "Králíci s moudrýma očima",
       "file": "smrt_krasnych_srncu_013.html",
       "words": 1731,
       "chars": 10036,
@@ -234,11 +242,11 @@
       ]
     },
     {
-      "title": "Tiráž • Smrt krásných srnců",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 138,
-      "chars": 913,
-      "ideas": 19,
+      "words": 123,
+      "chars": 803,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "smrt_krasnych_srncu_013.html",
@@ -256,9 +264,9 @@
   ],
   "totals": {
     "all": {
-      "words": 20945,
-      "chars": 122510,
-      "ideas": 588
+      "words": 20930,
+      "chars": 122400,
+      "ideas": 584
     },
     "chapters": {
       "words": 20800,

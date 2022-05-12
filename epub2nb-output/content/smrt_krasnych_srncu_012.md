@@ -1,5 +1,6 @@
 ---
 title: Prase nebude!
+contentType: prose
 ---
 
 Tatínek se zase vracel k půdě. Ale už neměl rybníky a v nich kapry, ani pole u Hřebce a na nich pšenici. Zbyla mu jen chata a pod ní chytal cejny, ale ti jednoho dne přestali brát a s rybami byl konec. Předseda JZD Vrané Rákosník mu vzkázal, zda chce krmit prasata. Oživl:

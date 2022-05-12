@@ -43,7 +43,7 @@
         "filename": "smrt_krasnych_srncu_002.md",
         "xhtml": "smrt_krasnych_srncu_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -172,7 +172,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ota Pavel",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T10:24:42.040Z"
+      "modified": "2020-04-23T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -332,6 +332,6 @@
       "user": "books-are-next",
       "repo": "pavel-smrt-krasnych-srncu"
     },
-    "generatedAt": 1638440682514
+    "generatedAt": 1652351293136
   }
 }
