@@ -1,5 +1,6 @@
 ---
 title: "Jak jsme se střetli s\_Vlky"
+contentType: prose
 ---
 
 Po válce jsme přijeli do Luhu. Strejda Prošek nás uvítal a povídal:

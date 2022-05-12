@@ -1,5 +1,6 @@
 ---
 title: "Králíci s\_moudrýma očima"
+contentType: prose
 ---
 
 Naši prodali chatu a koupili si domeček u Radotína, nad jeho střechou kvetla jabloň. Byla to jejich poslední štace tady na zemi a byla to štace šťastná. Pracovali a žili v bláhovém snu o Mesiáši, že se jednou vzmůžou. Ale protože víc pracovali, než snili, nebylo to tak špatné. Tatínek už nechodil za ženskými, bouře přešla, nastal klid. Jenom peněz bylo málo.

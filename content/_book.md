@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Smrt krásných srnců
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - smrt_krasnych_srncu_002.html
+  - promo.html
   - smrt_krasnych_srncu_003.html
   - smrt_krasnych_srncu_005.html
   - smrt_krasnych_srncu_006.html

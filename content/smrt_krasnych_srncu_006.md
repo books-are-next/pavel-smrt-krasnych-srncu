@@ -1,5 +1,6 @@
 ---
 title: Nejdražší ve střední Evropě
+contentType: prose
 ---
 
 Moje maminka strašně toužila jet před válkou do Itálie. Nechtěla ani tak vidět Michelangelovy sochy a obrazy Leonarda da Vinci, jako si přála vykoupat se v teplém moři. Protože maminka pocházela ze Dříně u Kladna, kde byl jen ubohý kachní rybníček, pokrytý hustým zeleným žabincem, a nikdy toho koupání jako malá holka neužila. A tak se vždycky zjara ptávala tatínka:

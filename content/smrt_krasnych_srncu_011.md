@@ -1,5 +1,6 @@
 ---
 title: Otázka hmyzu vyřešena
+contentType: prose
 ---
 
 Po druhé světové válce se tatínek vrhl do víru poválečných obchodů, ale nějak mu to nešlo. Nebyl už tak mladý, aby působil na mladé ženy, co nejvíc kupují, nebyl už snad ani tak roztomilý a trošku se unavil ve válce, v Africe, a v další válce, v koncentráku. Chtěl letět, ale plácal se jako motýl s poškozenými křídly.

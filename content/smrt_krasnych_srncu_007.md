@@ -1,5 +1,6 @@
 ---
 title: Ve službách Švédska
+contentType: prose
 ---
 
 Generální ředitel firmy Elektrolux pan František Korálek, u něhož můj tatínek pracoval, byl boháč. Měl třicet tisíc korun pevného platu měsíčně, vilu na Ořechovce, každý rok nové americké auto, žádné děti a v Chuchli svou vlastní stáj Frako (František Korálek), nádherné koně, také značky Elektrolux, a k nim anglické žokeje.
