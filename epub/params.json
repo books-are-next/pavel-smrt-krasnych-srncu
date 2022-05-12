@@ -44,7 +44,7 @@
         "filename": "smrt_krasnych_srncu_002.md",
         "xhtml": "smrt_krasnych_srncu_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -336,4 +336,3 @@
     "generatedAt": 1632141829263
   }
 }
-
