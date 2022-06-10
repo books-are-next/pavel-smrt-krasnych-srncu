@@ -3,6 +3,8 @@ title: Nejdražší ve střední Evropě
 contentType: prose
 ---
 
+<section>
+
 Moje maminka strašně toužila jet před válkou do Itálie. Nechtěla ani tak vidět Michelangelovy sochy a obrazy Leonarda da Vinci, jako si přála vykoupat se v teplém moři. Protože maminka pocházela ze Dříně u Kladna, kde byl jen ubohý kachní rybníček, pokrytý hustým zeleným žabincem, a nikdy toho koupání jako malá holka neužila. A tak se vždycky zjara ptávala tatínka:
 
 „Leoušku, pojedeme letos?“
@@ -127,6 +129,10 @@ A položil sluchátko.
 
 Pan doktor Václavík si to tenkrát nejel vyřídit do Prahy s tatínkem boxerským způsobem ani tatínka nežaloval. Ale museli mít u Václavíků asi smutný večer, stejně jako my po výlovu toho rybníka. Vždyť pan doktor Václavík koupil nejdražší bednu na králíky nejen v Čechách, ale v celé střední Evropě.
 
-  
+</section>
+
+<section>
 
 _[^1] Silnější plášťová nebo obleková látka z dvojbarevné nitě. Pozn. red._
+
+</section>
