@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-041c19d';
+const CACHE = 'cache-9b3ede7';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./smrt_krasnych_srncu_003.html","./smrt_krasnych_srncu_005.html","./smrt_krasnych_srncu_007.html","./smrt_krasnych_srncu_006.html","./smrt_krasnych_srncu_009.html","./smrt_krasnych_srncu_008.html","./smrt_krasnych_srncu_010.html","./smrt_krasnych_srncu_011.html","./smrt_krasnych_srncu_012.html","./smrt_krasnych_srncu_013.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_smrt_krasnych_sr_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./smrt_krasnych_srncu_003.html","./smrt_krasnych_srncu_005.html","./smrt_krasnych_srncu_006.html","./smrt_krasnych_srncu_007.html","./smrt_krasnych_srncu_008.html","./smrt_krasnych_srncu_009.html","./smrt_krasnych_srncu_010.html","./smrt_krasnych_srncu_011.html","./smrt_krasnych_srncu_012.html","./smrt_krasnych_srncu_013.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_smrt_krasnych_sr_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

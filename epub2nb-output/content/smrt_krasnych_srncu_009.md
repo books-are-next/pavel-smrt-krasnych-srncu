@@ -5,8 +5,6 @@ contentType: prose
 
 Hned na začátku okupace vzali mýmu tatínkovi buštěhradský rybník. „Copak může Žid chovat kapry?“ domlouval mu starosta. Buštěhradský dolní rybník se stal už dřív tatínkovou láskou, byl do něho zamilován jak do slečny (slečny měl, jen tak mimochodem, taky občas rád). Přitom tenhle rybník nevyhlížel báječně jako jihočeský rybník, kde stoupá pára, třepotá se rákosí a křičí rackové, ale šlo o slušnější rybník uprostřed města, z jedný strany pivovar, z druhý topoly, a jinak domky a chalupy. Ale tatínek se vozil po tomhle rybníce už jako kluk na neckách, plul po něm na neckách i jeho tatínek, dědeček i pradědeček, a tak ho k rybníku vázalo jakési pouto předků (mezi námi, taky to, že v tomhle rybníku rostli rychle chutní kapři, nesmrděli bahnem a on si na nich mohl přivydělávat k svému platu cesťáka s ledničkami a vysavači u té slavné firmy Elektrolux).
 
-  
-
 Tatínek chodil v dobách míru podle rybníka, v papírovém pytlíku míval žemle a krmil své kapry jak slepice:
 
 „Tu máte, kluci. Na. Na.“
