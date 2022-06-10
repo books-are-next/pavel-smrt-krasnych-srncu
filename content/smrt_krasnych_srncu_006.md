@@ -5,8 +5,6 @@ contentType: prose
 
 Moje maminka strašně toužila jet před válkou do Itálie. Nechtěla ani tak vidět Michelangelovy sochy a obrazy Leonarda da Vinci, jako si přála vykoupat se v teplém moři. Protože maminka pocházela ze Dříně u Kladna, kde byl jen ubohý kachní rybníček, pokrytý hustým zeleným žabincem, a nikdy toho koupání jako malá holka neužila. A tak se vždycky zjara ptávala tatínka:
 
-  
-
 „Leoušku, pojedeme letos?“
 
 Můj tatínek Leo obvykle odvětil, že právě letos nemáme dost peněz, a dokazoval, že podle jeho názoru je to na Berounce u Křivoklátu o moc lepší. Můj tatínek měl totiž daleko jinačí starosti. V popředí jeho zájmů stál obchod a ryby. V obojím neuvěřitelně vynikal, rybám však dával přednost a to byla věčná škoda pro naši rodinu a také pro švédskou firmu Elektrolux, kde dělal obchodního cestujícího s ledničkami a vysavači. Častokrát se přímo vytratil z obchodní cesty a našli ho obvykle na Berounce, jak chytá se svým nejlepším přítelem převozníkem Karlem Proškem štiky na okouny.
