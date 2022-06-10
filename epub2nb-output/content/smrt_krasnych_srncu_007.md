@@ -3,6 +3,8 @@ title: Ve službách Švédska
 contentType: prose
 ---
 
+<section>
+
 Generální ředitel firmy Elektrolux pan František Korálek, u něhož můj tatínek pracoval, byl boháč. Měl třicet tisíc korun pevného platu měsíčně, vilu na Ořechovce, každý rok nové americké auto, žádné děti a v Chuchli svou vlastní stáj Frako (František Korálek), nádherné koně, také značky Elektrolux, a k nim anglické žokeje.
 
 Podle tatínka byl však pan Korálek především gangster a hlavní důvod zřejmě spočíval v tom, že měl za ženu paní Irmu, kterou si vůbec nezasloužil. Paní Irma se totiž strašně líbila mému tatínkovi. Na Židovku měla nezvyklé blond vlasy a modré oči, potom překrásně vymodelovaná ňadra, jež se vypínala pod působivými látkami jako atlas nebo šantung[^2], a pevný oblý zadeček. Ztepilostí se vyrovnala klisnám ze stáje svého muže a ve tváři jí ležel oduševnělý výraz vzdělanosti, což nejvíce imponovalo tatínkovi, jenž nevěděl, kdy napsat i anebo y i v těch nejjednodušších slovech, neboť ho v útlém věku ze školy vyloučili pro řadu činů a nakonec proto, že hodil po třídním učiteli Lukešovi kalamář i s inkoustem.
@@ -295,8 +297,12 @@ Spokojenou bytostí byla naše maminka. Došlo na její slova, že tatínek nem�
 
 A druhým spokojeným byl pan profesor Nechleba. Maloval si zase svou Lukrécii. Jednou, o pár let později, za ním tatínek přišel, řekl mu, jak je krásná, a rozradostněný pan profesor mu ji dal. Strhl nám ji za války ze zdi opilý esesák s modrýma očima a světlými vlasy, rozřízl ji dýkou, a tím ji vlastně podruhé usmrtil. Tatínek měl tenkrát slzy v očích, protože na paní Irmu už dávno zapomněl a Lukrécii tajně miloval.
 
-  
+</section>
+
+<section>
 
 _[^2] Atlas = druh hedvábné tkaniny s lesklým lícem a matným rubem, příp. oboustranně lesklé; šantung = režná hedvábná tkanina v plátnové vazbě. Pozn. red._
 
 _[^3] Měkká látka z hrubé mykané příze, často s barevnými uzlíčky. Pozn. red._
+
+</section>

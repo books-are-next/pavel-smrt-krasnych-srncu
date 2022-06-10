@@ -3,6 +3,8 @@ title: Prase nebude!
 contentType: prose
 ---
 
+<section>
+
 Tatínek se zase vracel k půdě. Ale už neměl rybníky a v nich kapry, ani pole u Hřebce a na nich pšenici. Zbyla mu jen chata a pod ní chytal cejny, ale ti jednoho dne přestali brát a s rybami byl konec. Předseda JZD Vrané Rákosník mu vzkázal, zda chce krmit prasata. Oživl:
 
 „Konečně krásná a pořádná práce. Nadělám tam majlant…“
@@ -33,14 +35,20 @@ A líbali se, objímali a náklaďák se natřásal. To „Prase nebude!“ pa
 
 Z JZD Vrané pak poslali mému tatínkovi zvláštní dopis, v němž se zhruba praví, že ti, kdo pracovali budou ještě platit.
 
-  
+</section>
+
+<section>
 
 > _„Oznamujeme Vám, že při prověrce hospodaření našeho JZD vychází pracovní jednotka na rok 1957 mínus –,60 Kčs, a proto Vás žádáme o proplacení Vašeho závazku vůči družstvu ve výši Kč 530,52.“_
 
-  
+</section>
+
+<section>
 
 Tatínek tímto dopisem občas mával a volal:
 
 „Vstoupí tento dopis do historie jako jedna řádka naší rozrušené země, anebo se tomu budeme jednou jen smát?“
 
 A nikdo mu na to zatím neodpověděl.
+
+</section>

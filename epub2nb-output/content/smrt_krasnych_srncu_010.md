@@ -3,6 +3,8 @@ title: "Jak jsme se střetli s\_Vlky"
 contentType: prose
 ---
 
+<section>
+
 Po válce jsme přijeli do Luhu. Strejda Prošek nás uvítal a povídal:
 
 „Něco vám řeknu. Je tu plno štik. Štiky už netlučou při povrchu jako dřív, a tak rybáři o nich nevědí.“
@@ -48,3 +50,5 @@ Tatínek v té chvíli klopýtl, málem upadl, a zastavil, slyšel jsem, jak z
 „Pomoz mi, je to těžký.“
 
 Bylo mi ho líto, vozík byl teď pro něho určitě nesmírně těžký. Nic jsem nenamítal, zapomněl jsem na paní Marii, dal jsem pruty na vozík a začal jsem tlačit vozík z Luhu do kopce. Jsme přece jedna rodina a musíme táhnout spolu. Jeli jsme se svěšenými hlavami a dobře jsme věděli, že Vlkové, kteří neřekli ani slovo, dali nám ten den podle tatínka na prdel.
+
+</section>

@@ -3,6 +3,8 @@ title: "Králíci s\_moudrýma očima"
 contentType: prose
 ---
 
+<section>
+
 Naši prodali chatu a koupili si domeček u Radotína, nad jeho střechou kvetla jabloň. Byla to jejich poslední štace tady na zemi a byla to štace šťastná. Pracovali a žili v bláhovém snu o Mesiáši, že se jednou vzmůžou. Ale protože víc pracovali, než snili, nebylo to tak špatné. Tatínek už nechodil za ženskými, bouře přešla, nastal klid. Jenom peněz bylo málo.
 
 Rozhodl se znovu, že zase nadělá majlant, tentokrát za pomoci králíků. Králíky zpočátku kupoval, pak je rozdával anebo prodával. Pracoval jako nikdy v životě. Postavil pro králíky desítky kotců, ozdobil je závěsy, vypadaly jako hrady pro ušaté panstvo. Zavedl si zvláštní chov králíků šampanů, měli barvu jak americké rakety startující na Měsíc, někdy byli víc stříbrní a někdy víc šedí a oči měli na králíky krásné a moudré, jako by všechno věděli. Vyprávěl si s nimi celé hodiny a drbal je pod bradou. Mám dojem, že ho králíci milovali.
@@ -73,10 +75,16 @@ Spatřil řeku. Řeka byla pro něho v životě vším. A tak k ní šel, pod
 
 Maminka zavolala sanitku. Přijeli, vedli ho ven, že ho povezou do nemocnice. Nadával jim, u vrátek se jim vytrhl, něco si zapomněl. Nevracel se pro malý tranzistor, jak si ho lidi berou. Dal si jednou namalovat krásnou cedulku, na kterou byl pyšný. Teď ji pověsil na vrátka, aby si to mohl každý přečíst. Stálo na ní:
 
-  
+</section>
+
+<section>
 
 PŘIJDU HNED
 
-  
+</section>
+
+<section>
 
 A už nikdy nepřišel.
+
+</section>

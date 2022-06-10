@@ -3,6 +3,8 @@ title: Otázka hmyzu vyřešena
 contentType: prose
 ---
 
+<section>
+
 Po druhé světové válce se tatínek vrhl do víru poválečných obchodů, ale nějak mu to nešlo. Nebyl už tak mladý, aby působil na mladé ženy, co nejvíc kupují, nebyl už snad ani tak roztomilý a trošku se unavil ve válce, v Africe, a v další válce, v koncentráku. Chtěl letět, ale plácal se jako motýl s poškozenými křídly.
 
 Žil z minulosti a vzpomínal, jak před válkou chodil domů a sázel s velkým potěšením stovky na kulatý stolek. Měl pravdu, to uměl jak artista, pouštěl stokoruny z výšky anebo je připlácával. Maminka provolávala výkřiky obdivu a tleskala a my kluci jsme stáli, pusy dokořán. Později sice následoval obvykle druhý a třetí výstup, o němž už tatínek nerad hovořil: když vymáhal peníze z maminky zpátky, ale to známe jen z doslechu, a tak máme tatínka v živé paměti jen z dějství prvého. Když tatínek posté vzpomínal, maminka mu opakovala:
@@ -150,13 +152,17 @@ Teď mělo nastat to, že stejně skvělým způsobem, jakým nabízel mucholapk
 
 A tak jako v moři dojde vlna někam nakonec a vrací se zpátky, tak také tentokrát vlna došla k našim roztomilým ženám a vracela se zpátky k firmě DERSOL. Jenže tentokrát šlo o vlnu mohutnou, takovou, která pohltí celé pobřeží. Můj ubohý tatínek seděl právě na břehu a dostal do ruky první výstražný telegram v době, kdy pan inženýr Jehlička právě sháněl ve slovenské zemi ten nejkvalitnější med.
 
-  
+</section>
+
+<section>
 
 > PANE POPPER, MOUCHY NECHCÍPAJÍ. SPRAVUJOU SE!
 
 > JDĚTE DO PRDELE S TAKOVÝM ZÁZRAKEM!
 
-  
+</section>
+
+<section>
 
 A za tímto telegramem přicházely další, pak dopisy, a ještě než se vrátil pan šéf s medem, začaly docházet zásilky mucholapek od zákazníků, nečinících si nároků na vrácení peněz. Jak se rychle sklad vyprázdnil, tak rychle se naplnil. Mucholapky se jako živé hrnuly dveřmi, oknem, ale teď už nebyl nikdo, kdo by je rovnal a zadržel, kupily se bez ladu a skladu, na židli tu seděl tatínek a jen pokyvoval hlavou. Mucholapky brzy zaplavily kanceláře a ležely už na chodníku, když se vrátil pan inženýr. Nevěřil tomu, nechtěl tomu věřit, jen prohlásil, že jde o nějaký omyl. Napíše všem, všechno jim vysvětlí a oni si ty mucholapky vyžádají ještě rádi zpátky. Chodil po kanceláři a na všechny se usmíval, ale ve skutečnosti plakal. Tatínek věděl, že si to musí namlouvat, jinak by si musel jít opatřit ten revolver. Můj tatínek poznal jako voják, že bitva je prohraná. Vyndal jako správný generál praporky ze všech míst, kde zvítězil nad lepivými mucholapkami, a nandal je do krabičky a převázal růžovou mašličkou, co měl v kapse od některé své milenky. Potom si vzal jednu mucholapku BOMBA-CHEMIK a řekl panu inženýrovi:
 
@@ -172,7 +178,9 @@ Pak mě ještě můj báječný tatínek poslal k panu inženýrovi Jehličkovi
 
 Mucholapky krásně hořely, smrtící prášek DDT se z nich někam vytratil a nad žlutavým spáleništěm se linula vůně sladkého medu. Lákalo to mouchy, slétávaly se a mračna jich tančila nad hořícími mucholapkami BOMBA-CHEMIK svůj vítězný tanec.
 
-  
+</section>
+
+<section>
 
 Pár let nato jsem potkal pana inženýra znovu. Už nebyl tak vysoký, shrbil se. Vyhrkl na mě:
 
@@ -183,3 +191,5 @@ A vytáhl pohotově z kapsy mucholapku, podobala se té naší jako vejce vejc
 „A máte se, pane inženýre?“ zeptal jsem se (abych to zamluvil), a to jsem neměl. Usmál se smutně, mávl rukou, slzy mu vhrkly do očí a rychle odcházel.
 
 A já bych od něho nejraději běžel za tatínkem a řekl mu, že neprodával šmejd, snad by ho to zas postavilo na nohy. Ale nebylo už kam běžet. Jedině nahoru k Pánubohu a tam zřejmě už není potřeba nic prodávat. A ani mouchy tam asi nelétají. A jestli létají a bude třeba prodávat, tak už o tom tatínek stejně ví. A v tom případě je na place.
+
+</section>
