@@ -31,138 +31,144 @@
     },
     "structure": [
       {
-        "filename": "smrt_krasnych_srncu_001.md",
-        "xhtml": "smrt_krasnych_srncu_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_002.md",
-        "xhtml": "smrt_krasnych_srncu_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_003.md",
-        "xhtml": "smrt_krasnych_srncu_003.xhtml",
-        "id": 2,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_004.md",
-        "xhtml": "smrt_krasnych_srncu_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_005.md",
-        "xhtml": "smrt_krasnych_srncu_005.xhtml",
-        "id": 4,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_006.md",
-        "xhtml": "smrt_krasnych_srncu_006.xhtml",
-        "id": 5,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "Nejdražší ve střední Evropě",
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_007.md",
-        "xhtml": "smrt_krasnych_srncu_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "Ve službách Švédska",
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_008.md",
-        "xhtml": "smrt_krasnych_srncu_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "Smrt krásných srnců",
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_009.md",
-        "xhtml": "smrt_krasnych_srncu_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "Kapři pro wehrmacht",
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_010.md",
-        "xhtml": "smrt_krasnych_srncu_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "Jak jsme se střetli s Vlky",
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_011.md",
-        "xhtml": "smrt_krasnych_srncu_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "Otázka hmyzu vyřešena",
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_012.md",
-        "xhtml": "smrt_krasnych_srncu_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "Prase nebude!",
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_013.md",
-        "xhtml": "smrt_krasnych_srncu_013.xhtml",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "Králíci s moudrýma očima",
-        "children": []
-      },
-      {
-        "filename": "smrt_krasnych_srncu_014.md",
-        "xhtml": "smrt_krasnych_srncu_014.xhtml",
-        "id": 13,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "smrt_krasnych_srncu_001.md",
+            "xhtml": "smrt_krasnych_srncu_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_002.md",
+            "xhtml": "smrt_krasnych_srncu_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_003.md",
+            "xhtml": "smrt_krasnych_srncu_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_004.md",
+            "xhtml": "smrt_krasnych_srncu_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_005.md",
+            "xhtml": "smrt_krasnych_srncu_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_006.md",
+            "xhtml": "smrt_krasnych_srncu_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "Nejdražší ve střední Evropě",
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_007.md",
+            "xhtml": "smrt_krasnych_srncu_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "Ve službách Švédska",
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_008.md",
+            "xhtml": "smrt_krasnych_srncu_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "Smrt krásných srnců",
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_009.md",
+            "xhtml": "smrt_krasnych_srncu_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "Kapři pro wehrmacht",
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_010.md",
+            "xhtml": "smrt_krasnych_srncu_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "Jak jsme se střetli s Vlky",
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_011.md",
+            "xhtml": "smrt_krasnych_srncu_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "Otázka hmyzu vyřešena",
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_012.md",
+            "xhtml": "smrt_krasnych_srncu_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "Prase nebude!",
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_013.md",
+            "xhtml": "smrt_krasnych_srncu_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "Králíci s moudrýma očima",
+            "children": []
+          },
+          {
+            "filename": "smrt_krasnych_srncu_014.md",
+            "xhtml": "smrt_krasnych_srncu_014.xhtml",
+            "id": 13,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          }
+        ]
       }
     ]
   },
@@ -332,6 +338,6 @@
       "user": "books-are-next",
       "repo": "pavel-smrt-krasnych-srncu"
     },
-    "generatedAt": 1654948698714
+    "generatedAt": 1655156875357
   }
 }

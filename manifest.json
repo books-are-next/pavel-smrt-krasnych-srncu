@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pavel-smrt-krasnych-srncu-340eb35",
-  "revision": "340eb35",
+  "identifier": "pavel-smrt-krasnych-srncu-b5554ae",
+  "revision": "b5554ae",
   "readingOrder": [
     "promo.html",
     "smrt_krasnych_srncu_003.html",
@@ -25,8 +25,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:08:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949329704
+    "date": "Mon Jun 13 2022 21:57:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157423449
   },
   "documents": [
     {
@@ -244,9 +244,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 88,
-      "chars": 588,
-      "ideas": 7,
+      "words": 119,
+      "chars": 756,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "smrt_krasnych_srncu_013.html",
@@ -264,9 +264,9 @@
   ],
   "totals": {
     "all": {
-      "words": 20902,
-      "chars": 122225,
-      "ideas": 577
+      "words": 20933,
+      "chars": 122393,
+      "ideas": 584
     },
     "chapters": {
       "words": 20807,
