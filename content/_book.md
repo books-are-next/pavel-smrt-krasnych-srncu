@@ -26,22 +26,25 @@ readingOrder:
   - smrt_krasnych_srncu_013.html
   - colophon.html
 tocBase:
-  - link: smrt_krasnych_srncu_006.html
-    title: Nejdražší ve střední Evropě
-  - link: smrt_krasnych_srncu_007.html
-    title: Ve službách Švédska
-  - link: smrt_krasnych_srncu_008.html
-    title: Smrt krásných srnců
-  - link: smrt_krasnych_srncu_009.html
-    title: Kapři pro wehrmacht
-  - link: smrt_krasnych_srncu_010.html
-    title: Jak jsme se střetli s Vlky
-  - link: smrt_krasnych_srncu_011.html
-    title: Otázka hmyzu vyřešena
-  - link: smrt_krasnych_srncu_012.html
-    title: Prase nebude!
-  - link: smrt_krasnych_srncu_013.html
-    title: Králíci s moudrýma očima
+  - id: section-1
+    children:
+      - link: smrt_krasnych_srncu_006.html
+        title: Nejdražší ve střední Evropě
+      - link: smrt_krasnych_srncu_007.html
+        title: Ve službách Švédska
+      - link: smrt_krasnych_srncu_008.html
+        title: Smrt krásných srnců
+      - link: smrt_krasnych_srncu_009.html
+        title: Kapři pro wehrmacht
+      - link: smrt_krasnych_srncu_010.html
+        title: Jak jsme se střetli s Vlky
+      - link: smrt_krasnych_srncu_011.html
+        title: Otázka hmyzu vyřešena
+      - link: smrt_krasnych_srncu_012.html
+        title: Prase nebude!
+      - link: smrt_krasnych_srncu_013.html
+        title: Králíci s moudrýma očima
+    isSection: true
 static:
   - style
   - scripts
