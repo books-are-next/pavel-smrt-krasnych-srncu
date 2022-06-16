@@ -8,7 +8,8 @@
       "modified": "2021-09-08T09:42:17.967Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -338,6 +339,6 @@
       "user": "books-are-next",
       "repo": "pavel-smrt-krasnych-srncu"
     },
-    "generatedAt": 1655271586795
+    "generatedAt": 1655364274180
   }
 }
