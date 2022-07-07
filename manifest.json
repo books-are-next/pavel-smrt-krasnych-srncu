@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pavel-smrt-krasnych-srncu-1073253",
-  "revision": "1073253",
+  "identifier": "pavel-smrt-krasnych-srncu-04f60dd",
+  "revision": "04f60dd",
   "readingOrder": [
     "promo.html",
     "smrt_krasnych_srncu_003.html",
@@ -22,11 +22,11 @@
     "smrt_krasnych_srncu_011.html",
     "smrt_krasnych_srncu_012.html",
     "smrt_krasnych_srncu_013.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:19:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979589110
+    "date": "Thu Jul 07 2022 08:36:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182963212
   },
   "documents": [
     {
@@ -95,7 +95,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nejdražší ve střední Evropě",
+          "name": "Nejdražší ve střední Evropě",
           "id": null,
           "children": []
         }
@@ -175,7 +175,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak jsme se střetli s Vlky",
+          "name": "Jak jsme se střetli s Vlky",
           "id": null,
           "children": []
         }
@@ -230,7 +230,7 @@
       "role": "chapter",
       "order": 10,
       "prev": "smrt_krasnych_srncu_012.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -243,11 +243,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 133,
-      "chars": 863,
+      "chars": 862,
       "ideas": 14,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "smrt_krasnych_srncu_013.html",
       "next": null,
@@ -265,7 +265,7 @@
   "totals": {
     "all": {
       "words": 20947,
-      "chars": 122500,
+      "chars": 122499,
       "ideas": 584
     },
     "chapters": {
