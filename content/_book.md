@@ -25,7 +25,7 @@ readingOrder:
   - smrt_krasnych_srncu_011.html
   - smrt_krasnych_srncu_012.html
   - smrt_krasnych_srncu_013.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
