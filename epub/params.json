@@ -63,7 +63,7 @@
         "filename": "smrt_krasnych_srncu_004.md",
         "xhtml": "smrt_krasnych_srncu_004.xhtml",
         "id": 3,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -161,7 +161,7 @@
         "filename": "smrt_krasnych_srncu_014.md",
         "xhtml": "smrt_krasnych_srncu_014.xhtml",
         "id": 13,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
