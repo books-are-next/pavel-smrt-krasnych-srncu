@@ -222,9 +222,5 @@ Strejda Prošek tu hlavu srnce vypreparoval a pověsil si ji nad dveře své sn
 </section>
 
 <section>
-
-_[^4] Krysy (nebo potkani). Pozn. red._
-
-_[^5] Slon z Indie nemůže najít díru. Pozn. red._
-
+[^4]: Krysy (nebo potkani). Pozn. red.[^5] Slon z Indie nemůže najít díru. Pozn. red.
 </section>
