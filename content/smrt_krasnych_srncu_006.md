@@ -132,7 +132,5 @@ Pan doktor Václavík si to tenkrát nejel vyřídit do Prahy s tatínkem boxer
 </section>
 
 <section>
-
-_[^1] Silnější plášťová nebo obleková látka z dvojbarevné nitě. Pozn. red._
-
+[^1]: Silnější plášťová nebo obleková látka z dvojbarevné nitě. Pozn. red.
 </section>

@@ -300,9 +300,5 @@ A druhým spokojeným byl pan profesor Nechleba. Maloval si zase svou Lukrécii
 </section>
 
 <section>
-
-_[^2] Atlas = druh hedvábné tkaniny s lesklým lícem a matným rubem, příp. oboustranně lesklé; šantung = režná hedvábná tkanina v plátnové vazbě. Pozn. red._
-
-_[^3] Měkká látka z hrubé mykané příze, často s barevnými uzlíčky. Pozn. red._
-
+[^2]: Atlas = druh hedvábné tkaniny s lesklým lícem a matným rubem, příp. oboustranně lesklé; šantung = režná hedvábná tkanina v plátnové vazbě. Pozn. red.[^3] Měkká látka z hrubé mykané příze, často s barevnými uzlíčky. Pozn. red.
 </section>
