@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pavel-smrt-krasnych-srncu-d27e366",
-  "revision": "d27e366",
+  "identifier": "pavel-smrt-krasnych-srncu-59c0099",
+  "revision": "59c0099",
   "readingOrder": [
     "promo.html",
     "smrt_krasnych_srncu_003.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:31:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487060491
+    "date": "Sat Oct 01 2022 16:01:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640069588
   },
   "documents": [
     {
