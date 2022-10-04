@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pavel-smrt-krasnych-srncu-59c0099",
-  "revision": "59c0099",
+  "identifier": "pavel-smrt-krasnych-srncu-72ec15e",
+  "revision": "72ec15e",
   "readingOrder": [
     "promo.html",
     "smrt_krasnych_srncu_003.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:01:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640069588
+    "date": "Tue Oct 04 2022 16:49:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902176980
   },
   "documents": [
     {
@@ -84,9 +84,9 @@
     {
       "title": "Nejdražší ve střední Evropě",
       "file": "smrt_krasnych_srncu_006.html",
-      "words": 1865,
-      "chars": 11135,
-      "ideas": 63,
+      "words": 1876,
+      "chars": 11203,
+      "ideas": 64,
       "role": "chapter",
       "order": 3,
       "prev": "smrt_krasnych_srncu_005.html",
@@ -104,9 +104,9 @@
     {
       "title": "Ve službách Švédska",
       "file": "smrt_krasnych_srncu_007.html",
-      "words": 5192,
-      "chars": 30972,
-      "ideas": 147,
+      "words": 5230,
+      "chars": 31192,
+      "ideas": 149,
       "role": "chapter",
       "order": 4,
       "prev": "smrt_krasnych_srncu_006.html",
@@ -124,9 +124,9 @@
     {
       "title": "Smrt krásných srnců",
       "file": "smrt_krasnych_srncu_008.html",
-      "words": 4598,
-      "chars": 25977,
-      "ideas": 106,
+      "words": 4613,
+      "chars": 26051,
+      "ideas": 108,
       "role": "chapter",
       "order": 5,
       "prev": "smrt_krasnych_srncu_007.html",
@@ -264,14 +264,14 @@
   ],
   "totals": {
     "all": {
-      "words": 20883,
-      "chars": 122113,
-      "ideas": 579
+      "words": 20947,
+      "chars": 122475,
+      "ideas": 584
     },
     "chapters": {
-      "words": 20743,
-      "chars": 121211,
-      "ideas": 561
+      "words": 20807,
+      "chars": 121573,
+      "ideas": 566
     }
   }
 }
